@@ -5,7 +5,7 @@ A python program that displays the current date and time.
 import datetime in order to be able to access current date and time.
 
 ## To Run
-use `python3 datetime.py`
+use `python3 datetime_1.py`
 
 
 
